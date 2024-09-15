@@ -1,0 +1,13 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.vs/UMCollections/v17/.suo
+.vs/UMCollections/v17/.futdcache.v2
+.vs/UMCollections/FileContentIndex/ba4bae31-1441-4b93-9f0a-5948b03c0737.vsidx
+.vs/ProjectEvaluation/umcollections.projects.v7.bin
+.vs/ProjectEvaluation/umcollections.metadata.v7.bin
+.idea/.idea.UMCollections/.idea/vcs.xml
+.idea/.idea.UMCollections/.idea/indexLayout.xml
+.idea/.idea.UMCollections/.idea/encodings.xml

@@ -5,6 +5,7 @@ using BenchmarkDotNet.Configs;
 using BenchmarkDotNet.Running;
 
 var config = DefaultConfig.Instance;
+
 var summary = BenchmarkRunner.Run<ArrayTests>(config, args);
 var summary2 = BenchmarkRunner.Run<StreamTests>(config, args);
 
